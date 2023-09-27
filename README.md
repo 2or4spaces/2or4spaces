@@ -76,6 +76,9 @@
   <a href="https://babeljs.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.linux.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+  </a>&nbsp;
 </div>
 <hr>
 
