@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" title="cyberpunk" alt="cyberpunk" height="220" align="right">
 <h3>:purple_square: Hi there! My name is Roman</h3>
 <ul>
-  <li>I love coding, especially frontend</li>
+  <li>I like testing the application</li>
   <li>always learn something new</li>
   <li>create complex products for common people</li>
-  <li>proud to be part of the development team</li>
+  <li>proud to be part of the QA team</li>
   <li>in my free time I do fitness and love leisure activities</li>
   <li>Join now! You are one
     <sub>
@@ -14,70 +14,119 @@
 </ul>
 <hr>
 
-<h3>:purple_square: In my projects I use</h3>
+<h3>:purple_square: In testing I use</h3>
+<div>
+  <a href="https://www.postman.com/">
+    <img src="./tools/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.soapui.org/">
+    <img src="./tools/soapui.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.charlesproxy.com/">
+    <img src="./tools/charles.png" title="Charles" alt="Charles" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.telerik.com/fiddler/fiddler-classic">
+    <img src="./tools/fiddler.png" title="Fiddler classic" alt="Fiddler classic" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://jmeter.apache.org/">
+    <img src="./tools/jmeter.svg" title="JMeter" alt="JMeter" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.google.com/chrome/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://swagger.io/">
+    <img src="./tools/swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.apple.com/">
+    <img src="./tools/apple.svg" title="Apple" alt="Apple" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.android.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.android.com/studio">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://ubuntu.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/manual/">
+    <img src="./tools/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
+  </a>&nbsp;
+</div>
+
+<h3>:purple_square: In development I use</h3>
 <div>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://vuejs.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://nuxt.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://pinia.vuejs.org/">
-    <img src="./tools/pinia.svg" title="pinia" alt="pinia" width="40" height="40"/>
+    <img src="./tools/pinia.svg" title="Pinia" alt="Pinia" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://react.dev/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://html.spec.whatwg.org/multipage/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://sass-lang.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://webpack.js.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://vitejs.dev/">
-    <img src="./tools/vitejs.svg" title="vite" alt="vite" width="40" height="40"/>
+    <img src="./tools/vitejs.svg" title="Vite" alt="Vite" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://docs.npmjs.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://yarnpkg.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://git-scm.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://github.com/">
-    <img src="./tools/github.svg" title="github" alt="github" width="40" height="40"/>
+    <img src="./tools/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.figma.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://eslint.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://babeljs.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.linux.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
+    <img src="./tools/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
   </a>&nbsp;
 </div>
 <hr>
