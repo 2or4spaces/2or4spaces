@@ -6,7 +6,7 @@
   <li>create complex products for common people</li>
   <li>proud to be part of the QA team</li>
   <li>in my free time I do fitness and love leisure activities</li>
-  <li>Join now! You are one
+  <li>join now! You are one
     <sub>
       <img src="https://komarev.com/ghpvc/?username=2or4spaces&label=of&color=886ce4&&style=flat-square" title="visitors counter" alt="visitors counter"/>
     </sub>
@@ -39,6 +39,15 @@
   </a>&nbsp;
   <a href="https://swagger.io/">
     <img src="./tools/swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.atlassian.com/software/confluence">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://trello.com/home">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.apple.com/">
     <img src="./tools/apple.svg" title="Apple" alt="Apple" width="40" height="40"/>
