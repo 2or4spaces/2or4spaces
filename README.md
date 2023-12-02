@@ -52,6 +52,12 @@
   <a href="https://trello.com/home">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://droplr.com/">
+    <img src="./tools/droplr.svg" title="Droplr" alt="Droplr" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.browserstack.com/">
+    <img src="./tools/browserstack.svg" title="BrowserStack" alt="BrowserStack" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.apple.com/">
     <img src="./tools/apple.svg" title="Apple" alt="Apple" width="40" height="40"/>
   </a>&nbsp;
