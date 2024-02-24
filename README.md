@@ -19,6 +19,9 @@
   <a href="https://www.postman.com/">
     <img src="./tools/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://playwright.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.soapui.org/">
     <img src="./tools/soapui.svg" title="SoapUI" alt="SoapUI" width="40" height="40"/>
   </a>&nbsp;
@@ -74,10 +77,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://ubuntu.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.gnu.org/software/bash/manual/">
     <img src="./tools/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
@@ -114,7 +117,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://webpack.js.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
@@ -145,6 +148,9 @@
   </a>&nbsp;
   <a href="https://babeljs.io/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.docker.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://www.linux.org/">
     <img src="./tools/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
