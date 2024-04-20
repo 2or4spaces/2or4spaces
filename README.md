@@ -16,8 +16,8 @@
 
 <h3>:purple_square: In testing I use</h3>
 <div>
-  <a href="https://www.postman.com/">
-    <img src="./tools/postman.svg" title="Postman" alt="Postman" width="40" height="40" target="_blank"/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="./tools/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://playwright.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
