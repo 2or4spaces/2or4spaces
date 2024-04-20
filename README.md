@@ -31,6 +31,9 @@
   <a href="https://www.telerik.com/fiddler/fiddler-classic">
     <img src="./tools/fiddler.png" title="Fiddler classic" alt="Fiddler classic" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://ghostinspector.com/">
+    <img src="./tools/ghost_inspector.png" title="Ghost Inspector" alt="Ghost Inspector" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://jmeter.apache.org/">
     <img src="./tools/jmeter.svg" title="JMeter" alt="JMeter" width="40" height="40"/>
   </a>&nbsp;
