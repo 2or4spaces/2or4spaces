@@ -16,7 +16,7 @@
 
 <h3>:purple_square: In testing I use</h3>
 <div>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.postman.com/">
     <img src="./tools/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://playwright.dev/">
