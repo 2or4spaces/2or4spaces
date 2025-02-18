@@ -163,7 +163,7 @@
 
 <h3>:purple_square: My stats</h3>
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=2or4spaces&theme=dark&hide_border=true&mode=weekly&card_width=350&background=FFFFFF00&stroke=886CE4&ring=886CE4&fire=EB0000&currStreakLabel=FFFFFF&currStreakNum=EB0000" alt="GitHub Streak" /></a>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=2or4spaces&theme=dark&hide_border=true&mode=weekly&card_width=350&background=FFFFFF00&stroke=886CE4&ring=886CE4&fire=EB0000&currStreakLabel=FFFFFF&currStreakNum=EB0000" title="streak stats" alt="streak stats"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=2or4spaces&show_icons=true&title_color=886ce4&text_color=fff&icon_color=EB0000&border_color=00000000&hide_border=true&bg_color=00000000&border_radius=0&rank_icon=github&hide_title=true&text_bold=false&line_height=33&card_width=100" title="total stats" alt="total stats"/>
 </div>
 
